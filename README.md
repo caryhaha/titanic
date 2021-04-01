@@ -25,4 +25,4 @@
 ## Score
 最後我們的測試集準確率為77.751%，於27740個隊伍中排行8730名(Top31%)。
 ## Acknowledge
-感謝同組成員Vivian的共同參與，透過彼此不斷溝通討論才得已完成此次專案。
+感謝同組成員[Vivian](https://github.com/viviansophie "Title") 的共同參與，透過彼此不斷溝通討論才得已完成此次專案。
